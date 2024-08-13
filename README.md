@@ -1,35 +1,12 @@
-# Netflix UI Clone
-Clone of the Netflix website as a light HTML CSS and JS excercise - [Take a look](https://ui-clone1-netflix.netlify.app)
+## output
 
-_<p align="center">"Eating website for fun... nyom nyom nyom"</p>_
+![image](https://github.com/user-attachments/assets/a83d7dd5-b876-481b-b0e0-58b7308adf2b)
+![image](https://github.com/user-attachments/assets/feb28627-af7e-46c2-a546-3991553f5f61)
+![image](https://github.com/user-attachments/assets/f41d01d9-03e8-4899-bff5-972762d69b2f)
 
-<div align="center" style="text-align:center; margin:auto;">
-<img align="center" src="https://i.imgur.com/EgCvXyK.png" width="150"/>
-</div>
+## Demo 
+Click the link for the demo : https://dazzling-gumption-a22830.netlify.app/
 
-## What it is
-
-A basic warmup exercise. Simple, practice oriented, clone of the Netflix Homepage. Built with:
-
-- HTML
-- CSS
-
-## What it does
-
-- Look pretty, that's about it :-)
-
-## Learning Points
-
-- CSS Grid
-- Styling Tables
-- Positioning
-
-> Also (Just a thought), You could advance this by adding some animations to the selector borders etc.
-
-## Features in Development
-
-I might add the other pages on the Netflix website if I ever come back to refactor ^-^
-
-## Contribution
-
-Contributions are highly welcome. Feel free to fork, clone, make pull requests, report issues etc.
+## Contact
+Email : alsharath66@gmail.com <br>
+Linkedin : https://www.linkedin.com/in/sharath-a-l-877754249/
